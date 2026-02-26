@@ -1,0 +1,30 @@
+name: Generate Snake
+
+on:
+  schedule:
+    # 每天运行一次
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate Snake
+        uses: Platane/snk@master
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            anim/github-contribution-grid-snake.svg
+            anim/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add anim/
+          git commit -m "chore: update snake animation" || exit 0
+          git push

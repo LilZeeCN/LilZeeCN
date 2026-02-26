@@ -39,22 +39,16 @@ const zee = {
 
 ## 🔮 Tech Stack
 
-<!-- 赛博朋克风格技能进度条 -->
+<div align="center">
 
-### 🎯 Languages & Frameworks
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=000&labelColor=000&color=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=000&labelColor=000&color=00599C" alt="C++" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=000&labelColor=000&color=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000&labelColor=000&color=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=000&labelColor=000&color=4479A1" alt="SQL" />
-</div>
+### 🎯 Languages
 
-### ⚙️ Systems & Tools
-<div>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=000&labelColor=000&color=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000&labelColor=000&color=FCC624" alt="Linux" />
-  <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=000&labelColor=000&color=019733" alt="Vim" />
+<img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['Python','C++','TypeScript','JavaScript','SQL'],datasets:[{data:[35,25,20,12,8],backgroundColor:['#3776AB','#00599C','#3178C6','#F7DF1E','#4479A1']}]},options:{plugins:{legend:{position:'bottom',labels:{color:'#fff',padding:20}}}}}" width="300" />
+
+### ⚙️ Tools
+
+<img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Git','Linux','Vim'],datasets:[{data:[40,35,25],backgroundColor:['#F05032','#FCC624','#019733']}]},options:{plugins:{legend:{position:'bottom',labels:{color:'#fff',padding:20}}}}}" width="300" />
+
 </div>
 
 ---

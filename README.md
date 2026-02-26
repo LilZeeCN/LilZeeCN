@@ -43,54 +43,72 @@ const zee = {
 
 ### 🎯 Languages
 
-<svg width="300" height="300" viewBox="0 0 200 200">
-  <!-- Background -->
-  <circle cx="100" cy="100" r="90" fill="#0a0a0a"/>
-  <!-- Python 35% -->
-  <path d="M100,10 L100,100 L175.8,144.1 A90,90 0 0,0 100,10 Z" fill="#3776AB" stroke="#00FF41" stroke-width="0.5"/>
-  <!-- C++ 25% -->
-  <path d="M100,10 L24.2,144.1 L100,100 A90,90 0 0,1 100,10 Z" fill="#00599C" stroke="#00FF41" stroke-width="0.5" transform="rotate(126 100 100)"/>
-  <!-- TypeScript 20% -->
-  <circle cx="100" cy="100" r="70" fill="none" stroke="#3178C6" stroke-width="15" stroke-dasharray="44 220" stroke-dashoffset="0"/>
-  <!-- JavaScript 12% -->
-  <circle cx="100" cy="100" r="70" fill="none" stroke="#F7DF1E" stroke-width="15" stroke-dasharray="26 220" stroke-dashoffset="-44"/>
-  <!-- SQL 8% -->
-  <circle cx="100" cy="100" r="70" fill="none" stroke="#4479A1" stroke-width="15" stroke-dasharray="18 220" stroke-dashoffset="-70"/>
-  <!-- Center glow -->
-  <circle cx="100" cy="100" r="50" fill="#0a0a0a"/>
-  <text x="100" y="95" text-anchor="middle" fill="#00FF41" font-family="monospace" font-size="14">LANGUAGES</text>
-  <text x="100" y="115" text-anchor="middle" fill="#E94560" font-family="monospace" font-size="10">5 SKILLS</text>
+<svg width="280" height="280" viewBox="0 0 200 200">
+  <defs>
+    <filter id="glow1" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <!-- Background with grid -->
+  <circle cx="100" cy="100" r="95" fill="#0a0a0a" stroke="#00FF41" stroke-width="1" opacity="0.3"/>
+  <circle cx="100" cy="100" r="85" fill="#0a0a0a" stroke="#00FF41" stroke-width="0.5" stroke-dasharray="2,4" opacity="0.2"/>
+
+  <!-- Python 35% (0° → 126°) -->
+  <path d="M100,100 L100,15 A85,85 0 0,1 168.7,145.6 Z" fill="#3776AB" stroke="#00FF41" stroke-width="1" filter="url(#glow1)"/>
+  <!-- C++ 25% (126° → 216°) -->
+  <path d="M100,100 L168.7,145.6 A85,85 0 0,1 50,150 Z" fill="#00599C" stroke="#00FF41" stroke-width="1" filter="url(#glow1)"/>
+  <!-- TypeScript 20% (216° → 288°) -->
+  <path d="M100,100 L50,150 A85,85 0 0,1 31.3,74.4 Z" fill="#3178C6" stroke="#00FF41" stroke-width="1" filter="url(#glow1)"/>
+  <!-- JavaScript 12% (288° → 331.2°) -->
+  <path d="M100,100 L31.3,74.4 A85,85 0 0,1 58.3,28.2 Z" fill="#F7DF1E" stroke="#00FF41" stroke-width="1" filter="url(#glow1)"/>
+  <!-- SQL 8% (331.2° → 360°) -->
+  <path d="M100,100 L58.3,28.2 A85,85 0 0,1 100,15 Z" fill="#4479A1" stroke="#00FF41" stroke-width="1" filter="url(#glow1)"/>
+
+  <!-- Center hole for donut effect -->
+  <circle cx="100" cy="100" r="45" fill="#0a0a0a"/>
+  <text x="100" y="95" text-anchor="middle" fill="#00FF41" font-family="Fira Code, monospace" font-size="12" font-weight="bold">CODE</text>
+  <text x="100" y="112" text-anchor="middle" fill="#E94560" font-family="Fira Code, monospace" font-size="8">5 LANGS</text>
 </svg>
 
 <table>
-<tr><td align="right"><span style="color:#3776AB">██</span> Python</td><td align="left">35%</td></tr>
-<tr><td align="right"><span style="color:#00599C">██</span> C++</td><td align="left">25%</td></tr>
-<tr><td align="right"><span style="color:#3178C6">██</span> TypeScript</td><td align="left">20%</td></tr>
-<tr><td align="right"><span style="color:#F7DF1E">██</span> JavaScript</td><td align="left">12%</td></tr>
-<tr><td align="right"><span style="color:#4479A1">██</span> SQL</td><td align="left">8%</td></tr>
+<tr><td align="right"><code style="color:#3776AB">██</code></td><td align="left"><b>Python</b> 35%</td></tr>
+<tr><td align="right"><code style="color:#00599C">██</code></td><td align="left"><b>C++</b> 25%</td></tr>
+<tr><td align="right"><code style="color:#3178C6">██</code></td><td align="left"><b>TypeScript</b> 20%</td></tr>
+<tr><td align="right"><code style="color:#F7DF1E">██</code></td><td align="left"><b>JavaScript</b> 12%</td></tr>
+<tr><td align="right"><code style="color:#4479A1">██</code></td><td align="left"><b>SQL</b> 8%</td></tr>
 </table>
 
 ### ⚙️ Tools
 
-<svg width="300" height="300" viewBox="0 0 200 200">
-  <!-- Background -->
-  <circle cx="100" cy="100" r="90" fill="#0a0a0a"/>
-  <!-- Git 40% -->
-  <path d="M100,10 A90,90 0 0,1 185.6,145.6 L100,100 Z" fill="#F05032" stroke="#00FF41" stroke-width="0.5"/>
-  <!-- Linux 35% -->
-  <path d="M185.6,145.6 A90,90 0 0,1 54.4,185.6 L100,100 Z" fill="#FCC624" stroke="#00FF41" stroke-width="0.5"/>
-  <!-- Vim 25% -->
-  <path d="M54.4,185.6 A90,90 0 0,1 100,10 L100,100 Z" fill="#019733" stroke="#00FF41" stroke-width="0.5"/>
-  <!-- Center -->
-  <circle cx="100" cy="100" r="40" fill="#0a0a0a"/>
-  <text x="100" y="95" text-anchor="middle" fill="#00FF41" font-family="monospace" font-size="14">TOOLS</text>
-  <text x="100" y="115" text-anchor="middle" fill="#E94560" font-family="monospace" font-size="10">3 CORE</text>
+<svg width="280" height="280" viewBox="0 0 200 200">
+  <defs>
+    <filter id="glow2" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <!-- Background with grid -->
+  <circle cx="100" cy="100" r="95" fill="#0a0a0a" stroke="#E94560" stroke-width="1" opacity="0.3"/>
+  <circle cx="100" cy="100" r="85" fill="#0a0a0a" stroke="#E94560" stroke-width="0.5" stroke-dasharray="2,4" opacity="0.2"/>
+
+  <!-- Git 40% (0° → 144°) -->
+  <path d="M100,100 L100,15 A85,85 0 0,1 150,149.9 Z" fill="#F05032" stroke="#E94560" stroke-width="1" filter="url(#glow2)"/>
+  <!-- Linux 35% (144° → 270°) -->
+  <path d="M100,100 L150,149.9 A85,85 0 0,1 15,100 Z" fill="#FCC624" stroke="#E94560" stroke-width="1" filter="url(#glow2)"/>
+  <!-- Vim 25% (270° → 360°) -->
+  <path d="M100,100 L15,100 A85,85 0 0,1 100,15 Z" fill="#019733" stroke="#E94560" stroke-width="1" filter="url(#glow2)"/>
+
+  <!-- Center hole for donut effect -->
+  <circle cx="100" cy="100" r="45" fill="#0a0a0a"/>
+  <text x="100" y="95" text-anchor="middle" fill="#E94560" font-family="Fira Code, monospace" font-size="12" font-weight="bold">TOOLS</text>
+  <text x="100" y="112" text-anchor="middle" fill="#00FF41" font-family="Fira Code, monospace" font-size="8">3 CORE</text>
 </svg>
 
 <table>
-<tr><td align="right"><span style="color:#F05032">██</span> Git</td><td align="left">40%</td></tr>
-<tr><td align="right"><span style="color:#FCC624">██</span> Linux</td><td align="left">35%</td></tr>
-<tr><td align="right"><span style="color:#019733">██</span> Vim</td><td align="left">25%</td></tr>
+<tr><td align="right"><code style="color:#F05032">██</code></td><td align="left"><b>Git</b> 40%</td></tr>
+<tr><td align="right"><code style="color:#FCC624">██</code></td><td align="left"><b>Linux</b> 35%</td></tr>
+<tr><td align="right"><code style="color:#019733">██</code></td><td align="left"><b>Vim</b> 25%</td></tr>
 </table>
 
 </div>

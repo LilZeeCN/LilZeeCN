@@ -21,8 +21,6 @@
 
 </div>
 
----
-
 ## 🌃 About Me
 
 ```javascript
@@ -35,8 +33,6 @@ const zee = {
 };
 ```
 
----
-
 ## 🔮 Tech Stack
 
 <table>
@@ -45,8 +41,6 @@ const zee = {
     <td width="50%"><div align="center"><img src="https://raw.githubusercontent.com/LilZeeCN/LilZeeCN/main/tools-card.svg" alt="Tools" /></div></td>
   </tr>
 </table>
-
----
 
 ## 🚀 Featured Projects
 
@@ -60,8 +54,6 @@ const zee = {
 
 </div>
 
----
-
 ## 🎮 Current Setup
 
 ```yaml
@@ -70,8 +62,6 @@ Editor: VS Code
 Shell: zsh
 OS: macOS
 ```
-
----
 
 ## 🤝 Let's Connect
 
@@ -86,8 +76,6 @@ OS: macOS
 </div>
 
 </div>
-
----
 
 <div align="center">
 

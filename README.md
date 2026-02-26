@@ -73,14 +73,6 @@ OS: macOS
 
 ---
 
-## 📈 Trophy Cabinet
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LilZeeCN&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4&column=4" alt="Trophies" />
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center>

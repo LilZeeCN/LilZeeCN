@@ -11,7 +11,7 @@
 
 ## 🐍 Contribution Snake
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/LilZeeCN/LilZeeCN/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://github.com/LilZeeCN/LilZeeCN/raw/output/github-contribution-grid-snake.svg)
 
 ---
 

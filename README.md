@@ -43,11 +43,55 @@ const zee = {
 
 ### 🎯 Languages
 
-<img src="https://quickchart.io/chart?c=%7Btype%3A%27doughnut%27%2Cdata%3A%7Blabels%3A%5B%27Python%27%2C%27C%2B%2B%27%2C%27TypeScript%27%2C%27JavaScript%27%2C%27SQL%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B35%2C25%2C20%2C12%2C8%5D%2CbackgroundColor%3A%5B%27%233776AB%27%2C%27%2300599C%27%2C%27%233178C6%27%2C%27%23F7DF1E%27%2C%27%234479A1%27%5D%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Bposition%3A%27bottom%27%2Clabels%3A%7Bcolor%3A%27%23fff%27%2Cpadding%3A20%7D%7D%7D%7D%7D" width="350" />
+<svg width="300" height="300" viewBox="0 0 200 200">
+  <!-- Background -->
+  <circle cx="100" cy="100" r="90" fill="#0a0a0a"/>
+  <!-- Python 35% -->
+  <path d="M100,10 L100,100 L175.8,144.1 A90,90 0 0,0 100,10 Z" fill="#3776AB" stroke="#00FF41" stroke-width="0.5"/>
+  <!-- C++ 25% -->
+  <path d="M100,10 L24.2,144.1 L100,100 A90,90 0 0,1 100,10 Z" fill="#00599C" stroke="#00FF41" stroke-width="0.5" transform="rotate(126 100 100)"/>
+  <!-- TypeScript 20% -->
+  <circle cx="100" cy="100" r="70" fill="none" stroke="#3178C6" stroke-width="15" stroke-dasharray="44 220" stroke-dashoffset="0"/>
+  <!-- JavaScript 12% -->
+  <circle cx="100" cy="100" r="70" fill="none" stroke="#F7DF1E" stroke-width="15" stroke-dasharray="26 220" stroke-dashoffset="-44"/>
+  <!-- SQL 8% -->
+  <circle cx="100" cy="100" r="70" fill="none" stroke="#4479A1" stroke-width="15" stroke-dasharray="18 220" stroke-dashoffset="-70"/>
+  <!-- Center glow -->
+  <circle cx="100" cy="100" r="50" fill="#0a0a0a"/>
+  <text x="100" y="95" text-anchor="middle" fill="#00FF41" font-family="monospace" font-size="14">LANGUAGES</text>
+  <text x="100" y="115" text-anchor="middle" fill="#E94560" font-family="monospace" font-size="10">5 SKILLS</text>
+</svg>
+
+<table>
+<tr><td align="right"><span style="color:#3776AB">██</span> Python</td><td align="left">35%</td></tr>
+<tr><td align="right"><span style="color:#00599C">██</span> C++</td><td align="left">25%</td></tr>
+<tr><td align="right"><span style="color:#3178C6">██</span> TypeScript</td><td align="left">20%</td></tr>
+<tr><td align="right"><span style="color:#F7DF1E">██</span> JavaScript</td><td align="left">12%</td></tr>
+<tr><td align="right"><span style="color:#4479A1">██</span> SQL</td><td align="left">8%</td></tr>
+</table>
 
 ### ⚙️ Tools
 
-<img src="https://quickchart.io/chart?c=%7Btype%3A%27pie%27%2Cdata%3A%7Blabels%3A%5B%27Git%27%2C%27Linux%27%2C%27Vim%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B40%2C35%2C25%5D%2CbackgroundColor%3A%5B%27%23F05032%27%2C%27%23FCC624%27%2C%27%23019733%27%5D%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Bposition%3A%27bottom%27%2Clabels%3A%7Bcolor%3A%27%23fff%27%2Cpadding%3A20%7D%7D%7D%7D%7D" width="350" />
+<svg width="300" height="300" viewBox="0 0 200 200">
+  <!-- Background -->
+  <circle cx="100" cy="100" r="90" fill="#0a0a0a"/>
+  <!-- Git 40% -->
+  <path d="M100,10 A90,90 0 0,1 185.6,145.6 L100,100 Z" fill="#F05032" stroke="#00FF41" stroke-width="0.5"/>
+  <!-- Linux 35% -->
+  <path d="M185.6,145.6 A90,90 0 0,1 54.4,185.6 L100,100 Z" fill="#FCC624" stroke="#00FF41" stroke-width="0.5"/>
+  <!-- Vim 25% -->
+  <path d="M54.4,185.6 A90,90 0 0,1 100,10 L100,100 Z" fill="#019733" stroke="#00FF41" stroke-width="0.5"/>
+  <!-- Center -->
+  <circle cx="100" cy="100" r="40" fill="#0a0a0a"/>
+  <text x="100" y="95" text-anchor="middle" fill="#00FF41" font-family="monospace" font-size="14">TOOLS</text>
+  <text x="100" y="115" text-anchor="middle" fill="#E94560" font-family="monospace" font-size="10">3 CORE</text>
+</svg>
+
+<table>
+<tr><td align="right"><span style="color:#F05032">██</span> Git</td><td align="left">40%</td></tr>
+<tr><td align="right"><span style="color:#FCC624">██</span> Linux</td><td align="left">35%</td></tr>
+<tr><td align="right"><span style="color:#019733">██</span> Vim</td><td align="left">25%</td></tr>
+</table>
 
 </div>
 

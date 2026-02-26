@@ -42,35 +42,33 @@ const zee = {
 <div style="background:#000;padding:20px;border-radius:14px;">
   <p style="color:#fff;font-size:21px;font-weight:600;margin:0 0 20px 0;">Most Used Languages</p>
 
-  <p style="margin:10px 0;display:flex;align-items:center;gap:12px;">
-    <span style="width:12px;height:12px;border-radius:50%;background:#3776AB;display:inline-block;"></span>
-    <span style="color:#d0d0d0;flex:1;">Python</span>
-    <span style="color:#39ff14;">35%</span>
-  </p>
-
-  <p style="margin:10px 0;display:flex;align-items:center;gap:12px;">
-    <span style="width:12px;height:12px;border-radius:50%;background:#00599C;display:inline-block;"></span>
-    <span style="color:#d0d0d0;flex:1;">C++</span>
-    <span style="color:#39ff14;">25%</span>
-  </p>
-
-  <p style="margin:10px 0;display:flex;align-items:center;gap:12px;">
-    <span style="width:12px;height:12px;border-radius:50%;background:#3178C6;display:inline-block;"></span>
-    <span style="color:#d0d0d0;flex:1;">TypeScript</span>
-    <span style="color:#39ff14;">20%</span>
-  </p>
-
-  <p style="margin:10px 0;display:flex;align-items:center;gap:12px;">
-    <span style="width:12px;height:12px;border-radius:50%;background:#F7DF1E;display:inline-block;"></span>
-    <span style="color:#d0d0d0;flex:1;">JavaScript</span>
-    <span style="color:#39ff14;">12%</span>
-  </p>
-
-  <p style="margin:10px 0;display:flex;align-items:center;gap:12px;">
-    <span style="width:12px;height:12px;border-radius:50%;background:#4479A1;display:inline-block;"></span>
-    <span style="color:#d0d0d0;flex:1;">SQL</span>
-    <span style="color:#39ff14;">8%</span>
-  </p>
+  <table>
+    <tr>
+      <td><span style="background:#3776AB;width:12px;height:12px;display:inline-block;"></span></td>
+      <td style="color:#d0d0d0;">Python</td>
+      <td style="color:#39ff14;text-align:right;">35%</td>
+    </tr>
+    <tr>
+      <td><span style="background:#00599C;width:12px;height:12px;display:inline-block;"></span></td>
+      <td style="color:#d0d0d0;">C++</td>
+      <td style="color:#39ff14;text-align:right;">25%</td>
+    </tr>
+    <tr>
+      <td><span style="background:#3178C6;width:12px;height:12px;display:inline-block;"></span></td>
+      <td style="color:#d0d0d0;">TypeScript</td>
+      <td style="color:#39ff14;text-align:right;">20%</td>
+    </tr>
+    <tr>
+      <td><span style="background:#F7DF1E;width:12px;height:12px;display:inline-block;"></span></td>
+      <td style="color:#d0d0d0;">JavaScript</td>
+      <td style="color:#39ff14;text-align:right;">12%</td>
+    </tr>
+    <tr>
+      <td><span style="background:#4479A1;width:12px;height:12px;display:inline-block;"></span></td>
+      <td style="color:#d0d0d0;">SQL</td>
+      <td style="color:#39ff14;text-align:right;">8%</td>
+    </tr>
+  </table>
 </div>
 
     </td>
@@ -79,23 +77,23 @@ const zee = {
 <div style="background:#000;padding:20px;border-radius:14px;">
   <p style="color:#fff;font-size:21px;font-weight:600;margin:0 0 20px 0;">Dev Tools</p>
 
-  <p style="margin:10px 0;display:flex;align-items:center;gap:12px;">
-    <span style="width:12px;height:12px;border-radius:50%;background:#FF6B35;display:inline-block;"></span>
-    <span style="color:#d0d0d0;flex:1;">Git</span>
-    <span style="color:#E94560;">40%</span>
-  </p>
-
-  <p style="margin:10px 0;display:flex;align-items:center;gap:12px;">
-    <span style="width:12px;height:12px;border-radius:50%;background:#FFCC00;display:inline-block;"></span>
-    <span style="color:#d0d0d0;flex:1;">Linux</span>
-    <span style="color:#E94560;">35%</span>
-  </p>
-
-  <p style="margin:10px 0;display:flex;align-items:center;gap:12px;">
-    <span style="width:12px;height:12px;border-radius:50%;background:#00FF41;display:inline-block;"></span>
-    <span style="color:#d0d0d0;flex:1;">Vim</span>
-    <span style="color:#E94560;">25%</span>
-  </p>
+  <table>
+    <tr>
+      <td><span style="background:#FF6B35;width:12px;height:12px;display:inline-block;"></span></td>
+      <td style="color:#d0d0d0;">Git</td>
+      <td style="color:#E94560;text-align:right;">40%</td>
+    </tr>
+    <tr>
+      <td><span style="background:#FFCC00;width:12px;height:12px;display:inline-block;"></span></td>
+      <td style="color:#d0d0d0;">Linux</td>
+      <td style="color:#E94560;text-align:right;">35%</td>
+    </tr>
+    <tr>
+      <td><span style="background:#00FF41;width:12px;height:12px;display:inline-block;"></span></td>
+      <td style="color:#d0d0d0;">Vim</td>
+      <td style="color:#E94560;text-align:right;">25%</td>
+    </tr>
+  </table>
 </div>
 
     </td>

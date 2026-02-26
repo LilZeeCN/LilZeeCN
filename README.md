@@ -43,11 +43,11 @@ const zee = {
 
 ### 🎯 Languages
 
-<img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['Python','C++','TypeScript','JavaScript','SQL'],datasets:[{data:[35,25,20,12,8],backgroundColor:['#3776AB','#00599C','#3178C6','#F7DF1E','#4479A1']}]},options:{plugins:{legend:{position:'bottom',labels:{color:'#fff',padding:20}}}}}" width="300" />
+<img src="https://quickchart.io/chart?c=%7Btype%3A%27doughnut%27%2Cdata%3A%7Blabels%3A%5B%27Python%27%2C%27C%2B%2B%27%2C%27TypeScript%27%2C%27JavaScript%27%2C%27SQL%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B35%2C25%2C20%2C12%2C8%5D%2CbackgroundColor%3A%5B%27%233776AB%27%2C%27%2300599C%27%2C%27%233178C6%27%2C%27%23F7DF1E%27%2C%27%234479A1%27%5D%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Bposition%3A%27bottom%27%2Clabels%3A%7Bcolor%3A%27%23fff%27%2Cpadding%3A20%7D%7D%7D%7D%7D" width="350" />
 
 ### ⚙️ Tools
 
-<img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Git','Linux','Vim'],datasets:[{data:[40,35,25],backgroundColor:['#F05032','#FCC624','#019733']}]},options:{plugins:{legend:{position:'bottom',labels:{color:'#fff',padding:20}}}}}" width="300" />
+<img src="https://quickchart.io/chart?c=%7Btype%3A%27pie%27%2Cdata%3A%7Blabels%3A%5B%27Git%27%2C%27Linux%27%2C%27Vim%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B40%2C35%2C25%5D%2CbackgroundColor%3A%5B%27%23F05032%27%2C%27%23FCC624%27%2C%27%23019733%27%5D%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Bposition%3A%27bottom%27%2Clabels%3A%7Bcolor%3A%27%23fff%27%2Cpadding%3A20%7D%7D%7D%7D%7D" width="350" />
 
 </div>
 

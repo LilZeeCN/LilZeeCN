@@ -77,12 +77,7 @@ const zee = {
 
 <!-- 热点图风格统计 -->
 <div align="center">
-  <img width="49%" src="https://github-read-activity-graph.vercel.app/graph?username=LilZeeCN&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Heatmap" alt="Activity Graph" />
-  <img width="49%" src="https://github-read-streak-stats.herokuapp.com/?user=LilZeeCN&theme=neon&hide_border=true&stroke=00FF41&fire=E94560&ring=00FF41" alt="Streak Stats" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-read-stats.vercel.app/api?username=LilZeeCN&show_icons=true&theme=neon&hide_border=true&title_color=00FF41&icon_color=E94560&text_color=fff&bg_color=000,000,000" alt="Stats" />
+  <img width="49%" src="https://github-read-stats.vercel.app/api?username=LilZeeCN&show_icons=true&theme=neon&hide_border=true&title_color=00FF41&icon_color=E94560&text_color=fff&bg_color=000,000,000&include_all_commits=true" alt="Stats" />
   <img width="49%" src="https://github-read-stats.vercel.app/api/top-langs/?username=LilZeeCN&layout=compact&theme=neon&hide_border=true&title_color=00FF41&text_color=fff&bg_color=000,000,000" alt="Top Languages" />
 </div>
 

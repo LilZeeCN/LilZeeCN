@@ -1,0 +1,36 @@
+<!-- 纯 SVG 无 CSS 版本（备用）-->
+<svg width="280" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="280" height="300" fill="#0d1117" rx="8"/>
+  <text x="140" y="30" text-anchor="middle" font-family="monospace" font-size="16" font-weight="bold" fill="#00FF41">LANGUAGES</text>
+
+  <!-- 用 path 直接绘制扇形，不用任何 CSS -->
+  <g transform="translate(140, 150)">
+    <!-- Python 35% -->
+    <path d="M0,0 L0,-80 A80,80 0 0,1 64.7,-47 Z" fill="#00D8FF" stroke="#00FF41"/>
+    <!-- C++ 25% -->
+    <path d="M0,0 L64.7,-47 A80,80 0 0,1 -47,64.7 Z" fill="#0051D8" stroke="#00FF41"/>
+    <!-- TS 20% -->
+    <path d="M0,0 L-47,64.7 A80,80 0 0,1 -76.1,-24.7 Z" fill="#007ACC" stroke="#00FF41"/>
+    <!-- JS 12% -->
+    <path d="M0,0 L-76.1,-24.7 A80,80 0 0,1 -39.2,-69.6 Z" fill="#FFD700" stroke="#FFD700"/>
+    <!-- SQL 8% -->
+    <path d="M0,0 L-39.2,-69.6 A80,80 0 0,1 0,-80 Z" fill="#00CED1" stroke="#00CED1"/>
+
+    <circle r="35" fill="#0d1117" stroke="#00FF41" stroke-width="2"/>
+    <text x="0" y="5" text-anchor="middle" font-family="monospace" font-size="12" font-weight="bold" fill="#00FF41">DEV</text>
+  </g>
+
+  <!-- 图例 -->
+  <g font-family="monospace" font-size="9">
+    <rect x="25" y="245" width="10" height="10" fill="#00D8FF"/>
+    <text x="40" y="254" fill="#00FF41">Python 35%</text>
+    <rect x="115" y="245" width="10" height="10" fill="#0051D8"/>
+    <text x="130" y="254" fill="#00FF41">C++ 25%</text>
+    <rect x="25" y="262" width="10" height="10" fill="#007ACC"/>
+    <text x="40" y="271" fill="#00FF41">TS 20%</text>
+    <rect x="115" y="262" width="10" height="10" fill="#FFD700"/>
+    <text x="130" y="271" fill="#FFD700">JS 12%</text>
+    <rect x="25" y="279" width="10" height="10" fill="#00CED1"/>
+    <text x="40" y="288" fill="#00CED1">SQL 8%</text>
+  </g>
+</svg>

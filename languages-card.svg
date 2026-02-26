@@ -1,0 +1,59 @@
+<svg width="390" height="320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&amp;display=swap');
+      .title { font-family: 'Inter', sans-serif; font-size: 21px; font-weight: 600; fill: #fff; }
+      .label { font-family: 'Inter', sans-serif; font-size: 15px; font-weight: 400; fill: #d0d0d0; }
+      .percent { font-family: 'Inter', sans-serif; font-size: 15px; font-weight: 500; fill: #39ff14; }
+      .card-bg { fill: #000000; }
+    </style>
+  </defs>
+
+  <!-- 卡片背景 -->
+  <rect width="390" height="320" rx="14" class="card-bg"/>
+  <rect width="390" height="320" rx="14" fill="none" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+
+  <!-- 标题 -->
+  <text x="28" y="45" class="title">Most Used Languages</text>
+  <line x1="28" y1="60" x2="362" y2="60" stroke="rgba(57,255,20,0.2)" stroke-width="1"/>
+
+  <!-- 语言列表 -->
+  <!-- Python 35% -->
+  <g transform="translate(28, 90)">
+    <circle r="9" fill="#3776AB"/>
+    <text x="24" y="5" class="label">Python</text>
+    <text x="334" y="5" class="percent" text-anchor="end">35%</text>
+  </g>
+
+  <!-- C++ 25% -->
+  <g transform="translate(28, 125)">
+    <circle r="9" fill="#00599C"/>
+    <text x="24" y="5" class="label">C++</text>
+    <text x="334" y="5" class="percent" text-anchor="end">25%</text>
+  </g>
+
+  <!-- TypeScript 20% -->
+  <g transform="translate(28, 160)">
+    <circle r="9" fill="#3178C6"/>
+    <text x="24" y="5" class="label">TypeScript</text>
+    <text x="334" y="5" class="percent" text-anchor="end">20%</text>
+  </g>
+
+  <!-- JavaScript 12% -->
+  <g transform="translate(28, 195)">
+    <circle r="9" fill="#F7DF1E"/>
+    <text x="24" y="5" class="label">JavaScript</text>
+    <text x="334" y="5" class="percent" text-anchor="end">12%</text>
+  </g>
+
+  <!-- SQL 8% -->
+  <g transform="translate(28, 230)">
+    <circle r="9" fill="#4479A1"/>
+    <text x="24" y="5" class="label">SQL</text>
+    <text x="334" y="5" class="percent" text-anchor="end">8%</text>
+  </g>
+
+  <!-- 装饰元素 -->
+  <rect x="28" y="270" width="334" height="32" rx="6" fill="#0a0a0a" stroke="rgba(57,255,20,0.3)" stroke-width="1"/>
+  <text x="195" y="291" text-anchor="middle" font-family="monospace" font-size="12" fill="#39ff14">SYSTEM.COMPILER.LANG</text>
+</svg>

@@ -41,8 +41,8 @@ const zee = {
 
 <table>
   <tr>
-    <td width="50%"><div align="center"><img src="https://raw.githubusercontent.com/LilZeeCN/LilZeeCN/main/languages-chart.svg" alt="Languages" /></div></td>
-    <td width="50%"><div align="center"><img src="https://raw.githubusercontent.com/LilZeeCN/LilZeeCN/main/tools-chart.svg" alt="Tools" /></div></td>
+    <td width="50%"><div align="center"><img src="https://raw.githubusercontent.com/LilZeeCN/LilZeeCN/main/languages-card.svg" alt="Languages" /></div></td>
+    <td width="50%"><div align="center"><img src="https://raw.githubusercontent.com/LilZeeCN/LilZeeCN/main/tools-card.svg" alt="Tools" /></div></td>
   </tr>
 </table>
 

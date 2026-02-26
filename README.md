@@ -37,8 +37,68 @@ const zee = {
 
 <table>
   <tr>
-    <td width="50%"><div align="center"><img src="./languages-card.svg" alt="Languages" /></div></td>
-    <td width="50%"><div align="center"><img src="./tools-card.svg" alt="Tools" /></div></td>
+    <td width="50%">
+
+<div style="background:#000;padding:20px;border-radius:14px;">
+  <p style="color:#fff;font-size:21px;font-weight:600;margin:0 0 20px 0;">Most Used Languages</p>
+
+  <p style="margin:10px 0;display:flex;align-items:center;gap:12px;">
+    <span style="width:12px;height:12px;border-radius:50%;background:#3776AB;display:inline-block;"></span>
+    <span style="color:#d0d0d0;flex:1;">Python</span>
+    <span style="color:#39ff14;">35%</span>
+  </p>
+
+  <p style="margin:10px 0;display:flex;align-items:center;gap:12px;">
+    <span style="width:12px;height:12px;border-radius:50%;background:#00599C;display:inline-block;"></span>
+    <span style="color:#d0d0d0;flex:1;">C++</span>
+    <span style="color:#39ff14;">25%</span>
+  </p>
+
+  <p style="margin:10px 0;display:flex;align-items:center;gap:12px;">
+    <span style="width:12px;height:12px;border-radius:50%;background:#3178C6;display:inline-block;"></span>
+    <span style="color:#d0d0d0;flex:1;">TypeScript</span>
+    <span style="color:#39ff14;">20%</span>
+  </p>
+
+  <p style="margin:10px 0;display:flex;align-items:center;gap:12px;">
+    <span style="width:12px;height:12px;border-radius:50%;background:#F7DF1E;display:inline-block;"></span>
+    <span style="color:#d0d0d0;flex:1;">JavaScript</span>
+    <span style="color:#39ff14;">12%</span>
+  </p>
+
+  <p style="margin:10px 0;display:flex;align-items:center;gap:12px;">
+    <span style="width:12px;height:12px;border-radius:50%;background:#4479A1;display:inline-block;"></span>
+    <span style="color:#d0d0d0;flex:1;">SQL</span>
+    <span style="color:#39ff14;">8%</span>
+  </p>
+</div>
+
+    </td>
+    <td width="50%">
+
+<div style="background:#000;padding:20px;border-radius:14px;">
+  <p style="color:#fff;font-size:21px;font-weight:600;margin:0 0 20px 0;">Dev Tools</p>
+
+  <p style="margin:10px 0;display:flex;align-items:center;gap:12px;">
+    <span style="width:12px;height:12px;border-radius:50%;background:#FF6B35;display:inline-block;"></span>
+    <span style="color:#d0d0d0;flex:1;">Git</span>
+    <span style="color:#E94560;">40%</span>
+  </p>
+
+  <p style="margin:10px 0;display:flex;align-items:center;gap:12px;">
+    <span style="width:12px;height:12px;border-radius:50%;background:#FFCC00;display:inline-block;"></span>
+    <span style="color:#d0d0d0;flex:1;">Linux</span>
+    <span style="color:#E94560;">35%</span>
+  </p>
+
+  <p style="margin:10px 0;display:flex;align-items:center;gap:12px;">
+    <span style="width:12px;height:12px;border-radius:50%;background:#00FF41;display:inline-block;"></span>
+    <span style="color:#d0d0d0;flex:1;">Vim</span>
+    <span style="color:#E94560;">25%</span>
+  </p>
+</div>
+
+    </td>
   </tr>
 </table>
 

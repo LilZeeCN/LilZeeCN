@@ -5,10 +5,6 @@
 
 ## 🌌 GitHub Universe
 
-| &nbsp; | &nbsp; |
-| --- | --- |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=LilZeeCN&show_icons=true&theme=transparent&hide_border=true&title_color=ff007f&icon_color=00f7ff&text_color=e0e0e0&bg_color=0a0a0f&include_all_commits=true&count_private=true&custom_title=📊+My+Journey&locale=en) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LilZeeCN&layout=donut&theme=transparent&hide_border=true&title_color=b000ff&text_color=e0e0e0&bg_color=0a0a0f&hide_title=false) |
-
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=LilZeeCN&theme=transparent&hide_border=true&background=0a0a0f&stroke=ff007f&ring=00f7ff&fire=ff007f&currStreakLabel=e0e0e0&sideNums=00f7ff&sideLabels=b000ff&currStreakNum=ff007f)
 
 ---

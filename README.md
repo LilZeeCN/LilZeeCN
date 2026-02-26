@@ -73,16 +73,6 @@ const zee = {
 
 ---
 
-## 📊 Stats & Activity
-
-<!-- 热点图风格统计 -->
-<div align="center">
-  <img width="49%" src="https://github-read-stats.vercel.app/api?username=LilZeeCN&show_icons=true&theme=neon&hide_border=true&title_color=00FF41&icon_color=E94560&text_color=fff&bg_color=000,000,000&include_all_commits=true" alt="Stats" />
-  <img width="49%" src="https://github-read-stats.vercel.app/api/top-langs/?username=LilZeeCN&layout=compact&theme=neon&hide_border=true&title_color=00FF41&text_color=fff&bg_color=000,000,000" alt="Top Languages" />
-</div>
-
----
-
 ## 🎮 Current Setup
 
 ```yaml

@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/LilZeeCN/LilZeeCN@main/assets/hero-dark.svg">
-    <img src="https://cdn.jsdelivr.net/gh/LilZeeCN/LilZeeCN@main/assets/hero-light.svg" alt="LilZee" width="860">
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/LilZeeCN/LilZeeCN@ab3b6ce877a7f63daf3deb5421a878ed9c0c2b22/assets/hero-dark.svg">
+    <img src="https://cdn.jsdelivr.net/gh/LilZeeCN/LilZeeCN@ab3b6ce877a7f63daf3deb5421a878ed9c0c2b22/assets/hero-light.svg" alt="LilZee" width="860">
   </picture>
 </p>
 

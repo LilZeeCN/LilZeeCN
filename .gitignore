@@ -1,0 +1,5 @@
+# generator + preview artifacts
+gen_assets.py
+preview*.html
+preview*.png
+current_readme.md

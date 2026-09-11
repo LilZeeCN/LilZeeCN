@@ -1,23 +1,67 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/LilZeeCN/LilZeeCN@main/assets/banner-dark.svg">
+    <img src="https://cdn.jsdelivr.net/gh/LilZeeCN/LilZeeCN@main/assets/banner-light.svg" alt="LilZee — Teach the machine to teach." width="860">
+  </picture>
+</p>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=3000&pause=500&color=ff007f&center=true&vCenter=true&width=600&lines=Building+the+future+of+web;Open+Source+Enthusiast;Welcome+to+my+universe)
+<p align="center">
+  <sub>CS student building AI that helps people learn. Currently focused on conversational tutors, structured curricula, and tools that turn knowledge into a living wiki.</sub>
+</p>
 
----
+<br>
 
-## 🌌 GitHub Universe
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/LilZeeCN/LilZeeCN@main/assets/stats-dark.svg">
+    <img src="https://cdn.jsdelivr.net/gh/LilZeeCN/LilZeeCN@main/assets/stats-light.svg" alt="Stats" width="860">
+  </picture>
+</p>
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=LilZeeCN&theme=transparent&hide_border=true&background=0a0a0f&stroke=ff007f&ring=00f7ff&fire=ff007f&currStreakLabel=e0e0e0&sideNums=00f7ff&sideLabels=b000ff&currStreakNum=ff007f)
+<br>
 
----
+### Now
 
-## 🐍 Contribution Snake
+- <sub>↳</sub> Shipping **interactive-tutor** — a 1v1 conversational learning platform with structured syllabus, interactive lectures, code labs and projects.
+- <sub>↳</sub> Localizing **CS 61B** into Chinese — the Berkeley data structures course, with the community.
+- <sub>↳</sub> Iterating on **zee-tutor** — an AI-wiki skill for Claude Code that teaches any subject by generating interconnected wiki files.
 
-![github contribution grid snake animation](https://github.com/LilZeeCN/LilZeeCN/raw/output/github-contribution-grid-snake.svg)
+<br>
 
----
+### Tech
 
-## 📈 Activity Timeline
+<sub>TypeScript &nbsp;·&nbsp; Python &nbsp;·&nbsp; Java &nbsp;·&nbsp; React &nbsp;·&nbsp; Astro &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; Tailwind</sub>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LilZeeCN&theme=red-git&hide_border=true&bg_color=0a0a0f&color=ff007f&line=00f7ff&point=b000ff&area=true&area_color=0a0a0f)
+<br>
 
----
+### Selected Work
 
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top"><br><b><a href="https://github.com/LilZeeCN/interactive-tutor">interactive-tutor</a></b> &nbsp;★ 2<br><sub>AI 1v1 对话式学习平台：结构化大纲 · 交互讲座 · 代码实验 · 项目实战。</sub><br></td>
+    <td width="50%" valign="top"><br><b><a href="https://github.com/LilZeeCN/cs61b-cn">cs61b-cn</a></b> &nbsp;★ 3<br><sub>UC Berkeley CS 61B 数据结构中文版，开箱即用，无需构建工具。</sub><br></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><br><b><a href="https://github.com/LilZeeCN/zee-tutor">zee-tutor</a></b> &nbsp;★ 2<br><sub>AI wiki 学习 skill —— 任何学科，把知识生成互联的 wiki 文件而非长对话。</sub><br></td>
+    <td width="50%" valign="top"><br><b><a href="https://github.com/LilZeeCN/easy-uml">easy-uml</a></b> &nbsp;★ 1<br><sub>AI UML 图生成工具，玻璃拟态 UI，11 种图，DeepSeek 集成。</sub><br></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><br><b><a href="https://github.com/LilZeeCN/lab_to_docx">lab_to_docx</a></b> &nbsp;★ 1<br><sub>Claude Code Skill：自动填充 .docx 实验报告模板（代码格式化 + 截图占位符 + 中文字体适配）。</sub><br></td>
+    <td width="50%" valign="top"><br><b><a href="https://github.com/LilZeeCN/machine-learning-project">machine-learning-project</a></b> &nbsp;★ 1<br><sub>5G 用户预测：LR / RF / LightGBM 的不平衡二分类实战。</sub><br></td>
+  </tr>
+</table>
+
+<br>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/LilZeeCN/LilZeeCN@main/assets/languages-dark.svg">
+    <img src="https://cdn.jsdelivr.net/gh/LilZeeCN/LilZeeCN@main/assets/languages-light.svg" alt="Languages" width="860">
+  </picture>
+</p>
+
+<br>
+
+### Elsewhere
+
+<sub>📧 2453972231@qq.com &nbsp;·&nbsp; 欢迎邮件交流</sub>

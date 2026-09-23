@@ -34,7 +34,7 @@
 <td width="50%" valign="top">
 <sub>03 — OPEN SOURCE · AI EDUCATION</sub>
 <h3><a href="https://github.com/HKUDS/DeepTutor">DeepTutor ↗</a></h3>
-<p>参与一个 40k+ stars 的开源 AI 教学平台。<br><a href="https://github.com/HKUDS/DeepTutor/pull/1388">PR #1388 已合并</a>：修复推理前缀干扰 JSON 提取，并补上 30 项回归测试。</p>
+<p>参与一个 40k+ stars 的开源 AI 教学平台。<br><a href="https://github.com/HKUDS/DeepTutor/pull/1388">PR #1388 已合并</a>：修复 math_animator 因 reasoning 前缀中的 LaTeX 花括号误取 JSON 的问题；相关测试 30 项通过。</p>
 <sub>Open Source · Python · Merged PR</sub>
 </td>
 <td width="50%" valign="top">

@@ -5,8 +5,7 @@
 
 ### Hey, I'm Zee.
 
-我在探索 **AI × Education**，也做一些让学习和创作更顺手的小工具。  
-从对话式课堂、知识 Wiki，到数据结构课程与 UML —— 把想法做出来，再慢慢打磨。
+我在探索 **AI × Education**，也做让学习和创作更顺手的小工具。<br>从视频知识整理、随读词汇积累，到开源 AI 教学与可持续课程 Wiki——把想法做出来，再慢慢打磨。
 
 [Projects](https://github.com/LilZeeCN?tab=repositories) · [Email](mailto:2453972231@qq.com)
 
@@ -19,30 +18,30 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<sub>01 — AI LEARNING</sub>
-<h3><a href="https://github.com/LilZeeCN/interactive-tutor">interactive-tutor ↗</a></h3>
-<p>不止回答问题，而是陪你学会。<br>AI 一对一课堂，串起课程大纲、代码实验和项目练习。</p>
-<sub>TypeScript · React · Express</sub>
+<sub>01 — LEARNING FROM VIDEO</sub>
+<h3><a href="https://github.com/LilZeeCN/youtube-summary">youtube-summary ↗</a></h3>
+<p>看完视频，带走可回看的知识。<br>Chrome 扩展，为 YouTube 和 B站生成带时间戳的总结、思维导图与跨视频关联。</p>
+<sub>Chrome Extension · YouTube · Bilibili</sub>
 </td>
 <td width="50%" valign="top">
-<sub>02 — CREATIVE TOOLS</sub>
-<h3><a href="https://github.com/LilZeeCN/easy-uml">easy-uml ↗</a></h3>
-<p>把脑海里的结构，变成图。<br>用自然语言生成 UML，支持 11 种图表类型与 SVG 导出。</p>
-<sub>TypeScript · Next.js · DeepSeek</sub>
+<sub>02 — LANGUAGE LEARNING</sub>
+<h3><a href="https://github.com/LilZeeCN/lexiary">lexiary ↗</a></h3>
+<p>读到哪，记到哪。<br>Android 生词手账：整句翻译、点词收录、原句例句和词汇热力图。</p>
+<sub>Android · Kotlin · DeepSeek · SQLite</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<sub>03 — OPEN EDUCATION</sub>
-<h3><a href="https://github.com/LilZeeCN/cs61b-cn">cs61b-cn ↗</a></h3>
-<p>少一点语言障碍，多一点动手。<br>UC Berkeley CS 61B 课程骨架代码中文化，开箱即可练习。</p>
-<sub>Java · Data Structures · 中文化</sub>
+<sub>03 — OPEN SOURCE · AI EDUCATION</sub>
+<h3><a href="https://github.com/HKUDS/DeepTutor">DeepTutor ↗</a></h3>
+<p>参与一个 40k+ stars 的开源 AI 教学平台。<br><a href="https://github.com/HKUDS/DeepTutor/pull/1388">PR #1388 已合并</a>：修复推理前缀干扰 JSON 提取，并补上 30 项回归测试。</p>
+<sub>Open Source · Python · Merged PR</sub>
 </td>
 <td width="50%" valign="top">
-<sub>04 — KNOWLEDGE TOOLS</sub>
+<sub>04 — WIKI-BASED LEARNING</sub>
 <h3><a href="https://github.com/LilZeeCN/zee-tutor">zee-tutor ↗</a></h3>
-<p>让一次对话，长成一套知识。<br>面向 Claude Code 的学习 Skill，用互相链接的 Wiki 组织知识。</p>
-<sub>Claude Code · Wiki · Learning</sub>
+<p>让课程不止停在对话里。<br>Claude Code 学习 Skill，把学习目标、章节、练习、测评和进度整理成可持续维护的 Wiki。</p>
+<sub>Claude Code Skill · Markdown · Learning</sub>
 </td>
 </tr>
 </table>

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1026"/>
+      <stop offset="0.55" stop-color="#101B45"/>
+      <stop offset="1" stop-color="#07231B"/>
+    </linearGradient>
+    <linearGradient id="aurora" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#304FFE">
+        <animate attributeName="stop-color" values="#304FFE;#7C4DFF;#0E9F6E;#304FFE" dur="14s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="0.5" stop-color="#0E9F6E">
+        <animate attributeName="stop-color" values="#0E9F6E;#304FFE;#2EE6A8;#0E9F6E" dur="14s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#2EE6A8">
+        <animate attributeName="stop-color" values="#2EE6A8;#0E9F6E;#7C4DFF;#2EE6A8" dur="14s" repeatCount="indefinite"/>
+      </stop>
+      <animateTransform attributeName="gradientTransform" type="translate" values="0 0;0.25 0;0 0" dur="16s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="blur60" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="60"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="380" rx="24" fill="url(#sky)"/>
+  <ellipse cx="240" cy="60" rx="330" ry="130" fill="#304FFE" opacity="0.5" filter="url(#blur60)">
+    <animateTransform attributeName="transform" type="translate" values="0 0;120 24;0 0" dur="18s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="980" cy="330" rx="360" ry="140" fill="#0E9F6E" opacity="0.45" filter="url(#blur60)">
+    <animateTransform attributeName="transform" type="translate" values="0 0;-110 -18;0 0" dur="22s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="760" cy="40" rx="220" ry="90" fill="#7C4DFF" opacity="0.32" filter="url(#blur60)">
+    <animateTransform attributeName="transform" type="translate" values="0 0;-70 30;0 0" dur="26s" repeatCount="indefinite"/>
+  </ellipse>
+  <rect width="1200" height="380" rx="24" fill="url(#sheen)"/>
+
+  <text x="64" y="86" font-size="15" letter-spacing="4" fill="#C6CCDE">LILZEE · CS STUDENT · BUILDER</text>
+  <text x="60" y="168" font-size="66" font-weight="800" fill="#FFFFFF">Hey, I'm Zee.</text>
+  <text x="62" y="228" font-size="31" font-weight="700" fill="url(#aurora)">Less friction. More learning.</text>
+  <text x="62" y="272" font-size="17.5" fill="#D8DCEA">让 AI Agent 接进真实工具干活，也陪人把学习走完 — AI agents that do real work, and tools that help people learn.</text>
+
+  <g font-size="14" fill="#E7EAF3">
+    <rect x="62" y="300" width="118" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.08" stroke="#FFFFFF" stroke-opacity="0.3"/>
+    <text x="121" y="322" text-anchor="middle">AI Agents</text>
+    <rect x="194" y="300" width="76" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.08" stroke="#FFFFFF" stroke-opacity="0.3"/>
+    <text x="232" y="322" text-anchor="middle">MCP</text>
+    <rect x="284" y="300" width="112" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.08" stroke="#FFFFFF" stroke-opacity="0.3"/>
+    <text x="340" y="322" text-anchor="middle">Axure RP</text>
+    <rect x="410" y="300" width="148" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.08" stroke="#FFFFFF" stroke-opacity="0.3"/>
+    <text x="484" y="322" text-anchor="middle">AI × Education</text>
+  </g>
+</svg>

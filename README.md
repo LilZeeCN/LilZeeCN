@@ -1,1 +1,50 @@
-PHBpY3R1cmU+CiAgPHNvdXJjZSBtZWRpYT0iKHByZWZlcnMtY29sb3Itc2NoZW1lOiBkYXJrKSIgc3Jjc2V0PSIuL2Fzc2V0cy9lZGl0b3JpYWwtaGVhZGVyLWRhcmsuc3ZnIj4KICA8aW1nIHNyYz0iLi9hc3NldHMvZWRpdG9yaWFsLWhlYWRlci1saWdodC5zdmciIGFsdD0iTGlsWmVlIOKAlCBMZXNzIGZyaWN0aW9uLiBNb3JlIGxlYXJuaW5nLiBDUyBzdHVkZW50IGV4cGxvcmluZyBBSSBhbmQgZWR1Y2F0aW9uLiIgd2lkdGg9IjEwMCUiPgo8L3BpY3R1cmU+CgrmiJHmmK8gWmVl77yMQ1Mg5Zyo6K+744CC5oiR5Zyo5YGa5Lik5Lu25LqL77ya6K6pICoqQUkgQWdlbnQg5o6l5YWl55yf5a6e5bel5YW344CB5oqK5LqL5YGa5a6MKirvvIzkuZ/orqkgKipBSSDpmarkurrmiorlrabkuaDlnZrmjIHkuIvljrsqKuOAggoKW+WFs+S6juaIkV0oaHR0cHM6Ly9naXRodWIuY29tL0xpbFplZUNOKSDCtyBb5YWo6YOo5LuT5bqTXShodHRwczovL2dpdGh1Yi5jb20vTGlsWmVlQ04/dGFiPXJlcG9zaXRvcmllcykgwrcgW+WPkemCruS7tl0obWFpbHRvOjI0NTM5NzIyMzFAcXEuY29tKQoKLS0tCgojIyMgU2VsZWN0ZWQgV29yawoKKipbemVlLXJwXShodHRwczovL2dpdGh1Yi5jb20vTGlsWmVlQ04vemVlLXJwKSoqIOKAlCDorqkgQUkg55S75Ye65Y6f5Z6L77yM5ZyoIEF4dXJlIOmHjOe7p+e7reaUueOAguiDveivu+WGmeOAgeeUn+aIkOWOn+eUnyBBeHVyZSBgLnJwYCDmlofku7bnmoTlvJXmk47kuI4gTUNQIHNlcnZlcu+8mueUqCBSUC8xIOa6kOeggeaPj+i/sOmhtemdouS4juS6pOS6ku+8jOe8luivkeWHuuiuvuiuoeW4iOiDveaOpeedgOaUueeahCBgLnJwYO+8m+S5n+iDveivu+aUueW3suacieW3peeoi+OAgeaMieaIquWbvumHjeW7uuW4g+WxgOOAggo8c3ViPuW8gOa6kOW8leaTjiDCtyBNQ1AgU2VydmVyIMK3IOKYhSAyNyDCtyDlvZPliY3niYjmnKwgdjAuMi4xIMK3IE1JVDwvc3ViPgoKKipbYWd5LWFyZ29uLWJyaWRnZV0oaHR0cHM6Ly9naXRodWIuY29tL0xpbFplZUNOL2FneS1hcmdvbi1icmlkZ2UpKiog4oCUIOaKiiBBbnRpZ3Jhdml0eSBDTEkg5o6l5YiwIFZlcnRleCBBSSDnmoTml5foiLDmqKHlnovjgILmnKzlnLDmoaXmjqXmnI3liqHvvJrljY/orq7ovazmjaLkuI7kvIHkuJrnuqfpibTmnYPmjqXlhaUgYGdlbWluaS00LWFyZ29uYO+8jOaUr+aMgeWujOaVtCBUb29sIENhbGxpbmfjgIHlpJrotKblj7fova7mjaLkuI7plb/mgJ3ogIPlrojmiqTjgIIKPHN1Yj7mnKzlnLDmoaXmjqXmnI3liqEgwrcgUHl0aG9uIMK3IFZlcnRleCBBSSDCtyDimIUgMTU8L3N1Yj4KCioqW3lvdXR1YmUtc3VtbWFyeV0oaHR0cHM6Ly9naXRodWIuY29tL0xpbFplZUNOL3lvdXR1YmUtc3VtbWFyeSkqKiDigJQg55yL5a6M6KeG6aKR77yM5bim6LWw5Y+v5Zue55yL55qE55+l6K+G44CCQ2hyb21lIOaJqeWxle+8muS4uiBZb3VUdWJlIC8gQiDnq5nnlJ/miJDluKbml7bpl7TmiLPnmoTmgLvnu5PjgIHlj6/ngrnlh7vlr7zlm77kuI7ov73pl67lr7nor53vvIzlubbnlKjot6jop4bpopHplb/mnJ/orrDlv4bmiornnIvov4fnmoTlhoXlrrnov57otbfmnaXjgIIKPHN1Yj5DaHJvbWUg5omp5bGVIMK3IEphdmFTY3JpcHQgwrcgWW91VHViZSAvIEJpbGliaWxpPC9zdWI+CgoqKlt6ZWUtdHV0b3JdKGh0dHBzOi8vZ2l0aHViLmNvbS9MaWxaZWVDTi96ZWUtdHV0b3IpKiog4oCUIOiuqeivvueoi+S4jeatouWBnOWcqOWvueivnemHjOOAgkNsYXVkZSBDb2RlIOWtpuS5oCBTa2lsbO+8muaMieebruagh+S4juivgeaNruinhOWIkuivvueoi++8jOaKiueroOiKguOAgee7g+S5oOOAgea1i+ivhOS4jui/m+W6puayiea3gOS4uiBNYXJrZG93biBXaWtp44CCCjxzdWI+Q2xhdWRlIENvZGUgU2tpbGwgwrcgUHl0aG9uIMK3IOKYhSA4PC9zdWI+CgotLS0KCiMjIyDkuIDmnaHkuLvnur8KCj4g6K6pIEFJIOaOpeWFpeecn+WunuW3peWFt++8jOS5n+iuqSBBSSDlrabkvJrlpoLkvZXmlZnlrabjgIIKCi0gKipbRGVlcFR1dG9yXShodHRwczovL2dpdGh1Yi5jb20vSEtVRFMvRGVlcFR1dG9yKSoqIOKAlCDlj4LkuI4gNDBrKyBzdGFycyDnmoTlvIDmupAgQUkg5pWZ5a2m5bmz5Y+w77yMW1BSICMxMzg4XShodHRwczovL2dpdGh1Yi5jb20vSEtVRFMvRGVlcFR1dG9yL3B1bGwvMTM4OCkg5bey5ZCI5bm2Ci0gKipbbGV4aWFyeV0oaHR0cHM6Ly9naXRodWIuY29tL0xpbFplZUNOL2xleGlhcnkpKiog4oCUIEFuZHJvaWQg55Sf6K+N5omL6LSm77ya6K+75Yiw5ZOq77yM6K6w5Yiw5ZOqCi0gKipbY3M2MWItY25dKGh0dHBzOi8vZ2l0aHViLmNvbS9MaWxaZWVDTi9jczYxYi1jbikqKiDigJQgVUMgQmVya2VsZXkgQ1MgNjFCIOaVsOaNrue7k+aehOS4reaWh+eJiOmqqOaetuS7o+eggQoKIyMjIOacgOi/keWcqOW/meS7gOS5iAoKPCEtLVNUQVJUX1NFQ1RJT046YWN0aXZpdHktLT4KMS4g4p2MIENsb3NlZCBpc3N1ZSBbIzJdKGh0dHBzOi8vZ2l0aHViLmNvbS9MaWxaZWVDTi96ZWUtcnAvaXNzdWVzLzIpIGluIFtMaWxaZWVDTi96ZWUtcnBdKGh0dHBzOi8vZ2l0aHViLmNvbS9MaWxaZWVDTi96ZWUtcnApCjIuIOKdjCBDbG9zZWQgaXNzdWUgWyMxXShodHRwczovL2dpdGh1Yi5jb20vTGlsWmVlQ04vemVlLXJwL2lzc3Vlcy8xKSBpbiBbTGlsWmVlQ04vemVlLXJwXShodHRwczovL2dpdGh1Yi5jb20vTGlsWmVlQ04vemVlLXJwKQozLiDwn5KqIE9wZW5lZCBQUiBbIzRdKGh0dHBzOi8vZ2l0aHViLmNvbS9MaWxaZWVDTi96ZWUtcnAvcHVsbC80KSBpbiBbTGlsWmVlQ04vemVlLXJwXShodHRwczovL2dpdGh1Yi5jb20vTGlsWmVlQ04vemVlLXJwKQo8IS0tRU5EX1NFQ1RJT046YWN0aXZpdHktLT4KCjxwaWN0dXJlPgogIDxzb3VyY2UgbWVkaWE9IihwcmVmZXJzLWNvbG9yLXNjaGVtZTogZGFyaykiIHNyY3NldD0iaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0xpbFplZUNOL0xpbFplZUNOL2FuaW0vZ2l0aHViLWNvbnRyaWJ1dGlvbi1ncmlkLXNuYWtlLWRhcmsuc3ZnIj4KICA8c291cmNlIG1lZGlhPSIocHJlZmVycy1jb2xvci1zY2hlbWU6IGxpZ2h0KSIgc3Jjc2V0PSJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vTGlsWmVlQ04vTGlsWmVlQ04vYW5pbS9naXRodWItY29udHJpYnV0aW9uLWdyaWQtc25ha2Uuc3ZnIj4KICA8aW1nIGFsdD0iZ2l0aHViIGNvbnRyaWJ1dGlvbiBncmlkIHNuYWtlIGFuaW1hdGlvbiIgc3JjPSJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vTGlsWmVlQ04vTGlsWmVlQ04vYW5pbS9naXRodWItY29udHJpYnV0aW9uLWdyaWQtc25ha2Uuc3ZnIj4KPC9waWN0dXJlPgoKPHN1Yj5CdWlsdCB3aXRoIGN1cmlvc2l0eS4gU2hhcmVkIHdpdGggeW91LiAmbmJzcDsvJm5ic3A7IDxhIGhyZWY9Im1haWx0bzoyNDUzOTcyMjMxQHFxLmNvbSI+U2F5IGhlbGxvIOKGlzwvYT48L3N1Yj4K
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/editorial-header-dark.svg">
+  <img src="./assets/editorial-header-light.svg" alt="LilZee — Less friction. More learning. CS student exploring AI and education." width="100%">
+</picture>
+
+我是 Zee，CS 在读。我在做两件事：让 **AI Agent 接入真实工具、把事做完**，也让 **AI 陪人把学习坚持下去**。
+
+[关于我](https://github.com/LilZeeCN) · [全部仓库](https://github.com/LilZeeCN?tab=repositories) · [发邮件](mailto:2453972231@qq.com)
+
+---
+
+### Selected Work
+
+**[zee-rp](https://github.com/LilZeeCN/zee-rp)** — 让 AI 画出原型，在 Axure 里继续改。能读写、生成原生 Axure `.rp` 文件的引擎与 MCP server：用 RP/1 源码描述页面与交互，编译出设计师能接着改的 `.rp`；也能读改已有工程、按截图重建布局。
+<sub>开源引擎 · MCP Server · ★ 27 · 当前版本 v0.2.1 · MIT</sub>
+
+**[agy-argon-bridge](https://github.com/LilZeeCN/agy-argon-bridge)** — 把 Antigravity CLI 接到 Vertex AI 的旗舰模型。本地桥接服务：协议转换与企业级鉴权接入 `gemini-4-argon`，支持完整 Tool Calling、多账号轮换与长思考守护。
+<sub>本地桥接服务 · Python · Vertex AI · ★ 15</sub>
+
+**[youtube-summary](https://github.com/LilZeeCN/youtube-summary)** — 看完视频，带走可回看的知识。Chrome 扩展：为 YouTube / B 站生成带时间戳的总结、可点击导图与追问对话，并用跨视频长期记忆把看过的内容连起来。
+<sub>Chrome 扩展 · JavaScript · YouTube / Bilibili</sub>
+
+**[zee-tutor](https://github.com/LilZeeCN/zee-tutor)** — 让课程不止停在对话里。Claude Code 学习 Skill：按目标与证据规划课程，把章节、练习、测评与进度沉淀为 Markdown Wiki。
+<sub>Claude Code Skill · Python · ★ 8</sub>
+
+---
+
+### 一条主线
+
+> 让 AI 接入真实工具，也让 AI 学会如何教学。
+
+- **[DeepTutor](https://github.com/HKUDS/DeepTutor)** — 参与 40k+ stars 的开源 AI 教学平台，[PR #1388](https://github.com/HKUDS/DeepTutor/pull/1388) 已合并
+- **[lexiary](https://github.com/LilZeeCN/lexiary)** — Android 生词手账：读到哪，记到哪
+- **[cs61b-cn](https://github.com/LilZeeCN/cs61b-cn)** — UC Berkeley CS 61B 数据结构中文版骨架代码
+
+### 最近在忙什么
+
+<!--START_SECTION:activity-->
+1. ❌ Closed issue [#2](https://github.com/LilZeeCN/zee-rp/issues/2) in [LilZeeCN/zee-rp](https://github.com/LilZeeCN/zee-rp)
+2. ❌ Closed issue [#1](https://github.com/LilZeeCN/zee-rp/issues/1) in [LilZeeCN/zee-rp](https://github.com/LilZeeCN/zee-rp)
+3. 💪 Opened PR [#4](https://github.com/LilZeeCN/zee-rp/pull/4) in [LilZeeCN/zee-rp](https://github.com/LilZeeCN/zee-rp)
+<!--END_SECTION:activity-->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LilZeeCN/LilZeeCN/anim/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LilZeeCN/LilZeeCN/anim/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LilZeeCN/LilZeeCN/anim/github-contribution-grid-snake.svg">
+</picture>
+
+<sub>Built with curiosity. Shared with you. &nbsp;/&nbsp; <a href="mailto:2453972231@qq.com">Say hello ↗</a></sub>

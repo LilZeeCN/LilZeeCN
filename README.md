@@ -11,17 +11,12 @@
 
 ### Selected Work
 
-**[zee-rp](https://github.com/LilZeeCN/zee-rp)** — 让 AI 画出原型，在 Axure 里继续改。能读写、生成原生 Axure `.rp` 文件的引擎与 MCP server：用 RP/1 源码描述页面与交互，编译出设计师能接着改的 `.rp`；也能读改已有工程、按截图重建布局。
-<sub>开源引擎 · MCP Server · ★ 27 · 当前版本 v0.2.1 · MIT</sub>
-
-**[agy-argon-bridge](https://github.com/LilZeeCN/agy-argon-bridge)** — 把 Antigravity CLI 接到 Vertex AI 的旗舰模型。本地桥接服务：协议转换与企业级鉴权接入 `gemini-4-argon`，支持完整 Tool Calling、多账号轮换与长思考守护。
-<sub>本地桥接服务 · Python · Vertex AI · ★ 15</sub>
-
-**[youtube-summary](https://github.com/LilZeeCN/youtube-summary)** — 看完视频，带走可回看的知识。Chrome 扩展：为 YouTube / B 站生成带时间戳的总结、可点击导图与追问对话，并用跨视频长期记忆把看过的内容连起来。
-<sub>Chrome 扩展 · JavaScript · YouTube / Bilibili</sub>
-
-**[zee-tutor](https://github.com/LilZeeCN/zee-tutor)** — 让课程不止停在对话里。Claude Code 学习 Skill：按目标与证据规划课程，把章节、练习、测评与进度沉淀为 Markdown Wiki。
-<sub>Claude Code Skill · Python · ★ 8</sub>
+| 项目 | 一句话 | 做什么 | 技术 |
+| :--- | :--- | :--- | :--- |
+| **[zee-rp](https://github.com/LilZeeCN/zee-rp)** | 让 AI 画出原型，在 Axure 里继续改。 | 能读写、生成原生 Axure `.rp` 的引擎与 MCP server：用 RP/1 源码描述页面与交互，编译出能接着改的 `.rp`；也能读改已有工程、按截图重建布局。 | 开源引擎 · MCP Server · MIT |
+| **[agy-argon-bridge](https://github.com/LilZeeCN/agy-argon-bridge)** | 把 Antigravity CLI 接到 Vertex AI 的旗舰模型。 | 本地桥接服务：协议转换与企业级鉴权接入 `gemini-4-argon`，支持完整 Tool Calling、多账号轮换与长思考守护。 | Python · Vertex AI |
+| **[youtube-summary](https://github.com/LilZeeCN/youtube-summary)** | 看完视频，带走可回看的知识。 | Chrome 扩展：为 YouTube / B 站生成带时间戳的总结、可点击导图与追问对话，并用跨视频长期记忆把看过的内容连起来。 | JavaScript · Chrome 扩展 |
+| **[zee-tutor](https://github.com/LilZeeCN/zee-tutor)** | 让课程不止停在对话里。 | Claude Code 学习 Skill：按目标与证据规划课程，把章节、练习、测评与进度沉淀为 Markdown Wiki。 | Python · Claude Code Skill |
 
 ---
 

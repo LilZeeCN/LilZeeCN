@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="452" viewBox="0 0 1200 452" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1026"/>
+      <stop offset="0.55" stop-color="#14204A"/>
+      <stop offset="1" stop-color="#0A2E23"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#304FFE" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#304FFE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#0E9F6E" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#0E9F6E" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="452" rx="24" fill="url(#bg)"/>
+  <circle cx="150" cy="30" r="220" fill="url(#glow1)"/>
+  <circle cx="1120" cy="452" r="240" fill="url(#glow2)"/>
+  <circle cx="60" cy="66" r="6" fill="#2EE6A8">
+    <animate attributeName="opacity" values="1;0.25;1" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <text x="78" y="73" font-size="15" letter-spacing="3" fill="#E7EAF3">SELECTED WORK — LIVE</text>
+  <text x="1160" y="73" font-size="15" fill="#8A919C" text-anchor="end">四个主力项目 · 合计 ★ 51</text>
+  <text x="40" y="106" font-size="12.5" fill="#8A919C">数据来自 GitHub API，由本仓库的 GitHub Action 每日自动重绘</text>
+
+  <g>
+    <rect x="40" y="128" width="261" height="272" rx="18" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.16"/>
+    <rect x="40" y="128" width="261" height="4" rx="2" fill="#6483FF"/>
+    <text x="64" y="188" font-size="19" font-weight="700" fill="#FFFFFF">zee-rp</text>
+    <text x="64" y="220" font-size="13.5" fill="#C6CCDE">AI 生成原生 Axure 原型</text>
+    <text x="64" y="292" font-size="34" font-weight="800" fill="#FFFFFF">★ 27</text>
+    <text x="64" y="318" font-size="12.5" fill="#8A919C">stars · Python · 2 forks</text>
+    <rect x="64" y="340" width="213" height="28" rx="14" fill="#FFFFFF" fill-opacity="0.08" stroke="#FFFFFF" stroke-opacity="0.14"/>
+    <text x="78" y="359" font-size="12" fill="#E7EAF3">Release v0.2.1 · 2026-10-25</text>
+  </g>
+  <g>
+    <rect x="325" y="128" width="261" height="272" rx="18" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.16"/>
+    <rect x="325" y="128" width="261" height="4" rx="2" fill="#B388FF"/>
+    <text x="349" y="188" font-size="16" font-weight="700" fill="#FFFFFF">agy-argon-bridge</text>
+    <text x="349" y="220" font-size="13.5" fill="#C6CCDE">agy × Vertex AI 旗舰模型</text>
+    <text x="349" y="292" font-size="34" font-weight="800" fill="#FFFFFF">★ 15</text>
+    <text x="349" y="318" font-size="12.5" fill="#8A919C">stars · Python · 1 forks</text>
+    <rect x="349" y="340" width="150" height="28" rx="14" fill="#FFFFFF" fill-opacity="0.08" stroke="#FFFFFF" stroke-opacity="0.14"/>
+    <text x="363" y="359" font-size="12" fill="#E7EAF3">Updated 2026-10-22</text>
+  </g>
+  <g>
+    <rect x="610" y="128" width="261" height="272" rx="18" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.16"/>
+    <rect x="610" y="128" width="261" height="4" rx="2" fill="#2EE6A8"/>
+    <text x="634" y="188" font-size="16" font-weight="700" fill="#FFFFFF">youtube-summary</text>
+    <text x="634" y="220" font-size="13.5" fill="#C6CCDE">看完视频，带走知识</text>
+    <text x="634" y="292" font-size="34" font-weight="800" fill="#FFFFFF">★ 1</text>
+    <text x="634" y="318" font-size="12.5" fill="#8A919C">stars · JavaScript · 0 forks</text>
+    <rect x="634" y="340" width="150" height="28" rx="14" fill="#FFFFFF" fill-opacity="0.08" stroke="#FFFFFF" stroke-opacity="0.14"/>
+    <text x="648" y="359" font-size="12" fill="#E7EAF3">Updated 2026-09-17</text>
+  </g>
+  <g>
+    <rect x="895" y="128" width="261" height="272" rx="18" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.16"/>
+    <rect x="895" y="128" width="261" height="4" rx="2" fill="#0E9F6E"/>
+    <text x="919" y="188" font-size="19" font-weight="700" fill="#FFFFFF">zee-tutor</text>
+    <text x="919" y="220" font-size="13.5" fill="#C6CCDE">课程 Wiki 化 · 证据化学习</text>
+    <text x="919" y="292" font-size="34" font-weight="800" fill="#FFFFFF">★ 8</text>
+    <text x="919" y="318" font-size="12.5" fill="#8A919C">stars · Python · 1 forks</text>
+    <rect x="919" y="340" width="150" height="28" rx="14" fill="#FFFFFF" fill-opacity="0.08" stroke="#FFFFFF" stroke-opacity="0.14"/>
+    <text x="933" y="359" font-size="12" fill="#E7EAF3">Updated 2026-09-23</text>
+  </g>
+  <text x="40" y="430" font-size="12" fill="#5A6472">github.com/LilZeeCN</text>
+  <text x="1160" y="430" font-size="12" fill="#5A6472" text-anchor="end">Designed &amp; generated in-repo — no templates</text>
+</svg>
